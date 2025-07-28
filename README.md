@@ -3,7 +3,7 @@
 ## About Me
 - 👩‍💻 I'm Ananya Giliyal – Data Scientist passionate about media automation and AI-driven storytelling.
 - 🎓 Graduated with a BTech in Data Science from NMIMS, having a strong foundation in statistics, machine learning, computer vision, and NLP.
-- 🛠️ Currently working on scalable content automation pipelines, audio-visual analytics, and intelligent media tools.
+- 💼 Currently working at Jiostar, where I design scalable AI-powered pipelines for content automation, audio-visual analytics, metadata enrichment and media intelligence.
 - 🤖 Skilled in Python, SQL, and Streamlit for data workflows; experienced with OpenCV, TensorFlow, YOLO, and FFMPEG for computer vision and media processing; familiar with AWS and automation frameworks for scalable pipeline deployment.
 - 🚀 Always learning, always exploring — from cutting-edge AI to practical problem-solving in real-world workflows.
 
