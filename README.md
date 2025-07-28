@@ -1,11 +1,11 @@
 # Hi there! 👋
 
 ## About Me
-- 👩‍💻 I'm Ananya Giliyal
-- 📚 Currently an engineering student specializing in data science at NMIMS 🎓
-- 🌟 Enthusiastic and excited about all things data science! 🤩
-- 🧠 Passionate about NLP, deep learning, and machine learning. 🤖
-- 🚀 Always striving to learn and stay updated with the latest advancements in the field! 📈
+- 👩‍💻 I'm Ananya Giliyal – Data Scientist passionate about media automation and AI-driven storytelling.
+- 🎓 Graduated with a BTech in Data Science from NMIMS, having a strong foundation in statistics, machine learning, computer vision, and NLP.
+- 🛠️ Currently working on scalable content automation pipelines, audio-visual analytics, and intelligent media tools.
+- 🤖 Skilled in Python, SQL, and Streamlit for data workflows; experienced with OpenCV, TensorFlow, YOLO, and FFMPEG for computer vision and media processing; familiar with AWS and automation frameworks for scalable pipeline deployment.
+- 🚀 Always learning, always exploring — from cutting-edge AI to practical problem-solving in real-world workflows.
 
 ## Connect with Me
 - 📊 Check out my Kaggle profile: [Kaggle](https://www.kaggle.com/ananyagiliyal7) 📈
